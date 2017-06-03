@@ -2,11 +2,11 @@
   {
     "remote": "XOSPD",
     "revision": "xosp-n",
-    "repository": "XOSP-Devices/android_device_sony_fusion3-common",
+    "repository": "XOSP-Project/android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common"
   },
   {    
-	"remote": "XOSPD",
+    "remote": "XOSPD",
     "revision": "cm-14.1",
     "repository": "LineageOs/android_device_sony_common",
     "target_path": "device/sony/common"
@@ -18,7 +18,7 @@
     "target_path": "device/qcom/common"
   },
   {    
-	"remote": "XOSPD",
+    "remote": "XOSPD",
     "revision": "cm-14.1",
     "repository": "daedroza/kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064"
